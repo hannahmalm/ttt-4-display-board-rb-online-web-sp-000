@@ -17,7 +17,7 @@ def display_board(board)
 end
 
 def display_board(board)
-board = ["","","","","","","","",""]
+board = ["","","","","X","","","",""]
   puts "   |   |   "
   puts "-----------"
   puts "   | X |   "
@@ -25,7 +25,7 @@ board = ["","","","","","","","",""]
   puts "   |   |   "
 end  
   
-   board = ["","","","","","","","",""]
+   board = ["O","","","","","","","",""]
   puts " O |   |   "
   puts "-----------"
   puts "   |   |   "
