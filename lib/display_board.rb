@@ -16,18 +16,18 @@ def display_board(board)
   puts "   |   |   "
 end
 
-def display_board(board)
-board = ["","","","","X","","","",""]
-  puts "   |   |   "
-  puts "-----------"
-  puts "   | X |   "
-  puts "-----------"
-  puts "   |   |   "
-end  
+# def display_board(board)
+# board = ["","","","","X","","","",""]
+#   puts "   |   |   "
+#   puts "-----------"
+#   puts "   | X |   "
+#   puts "-----------"
+#   puts "   |   |   "
+# end  
   
-   board = ["O","","","","","","","",""]
-  puts " O |   |   "
-  puts "-----------"
-  puts "   |   |   "
-  puts "-----------"
-  puts "   |   |   "
+#   board = ["O","","","","","","","",""]
+#   puts " O |   |   "
+#   puts "-----------"
+#   puts "   |   |   "
+#   puts "-----------"
+#   puts "   |   |   "
