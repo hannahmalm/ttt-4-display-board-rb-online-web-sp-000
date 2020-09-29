@@ -9,9 +9,9 @@
 
 def display_board(board)
    board = ["","","","","","","","",""]
-  puts "   |   |   "
+  puts " O |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | X |   "
   puts "-----------"
   puts "   |   |   "
 end
